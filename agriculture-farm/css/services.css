@@ -1,11 +1,3 @@
-/*
-Template Name:agricultural
-File: Layout CSS
-Author: Templates On Web
-Author URI: http://templateonweb.com/
-Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
-*/
-
 
 
 /********************* services_main ****************/
@@ -137,6 +129,7 @@ Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152
 #request{ 
  padding-bottom:50px;
  margin-top:-140px;
+ padding-left: 17.5%;
  }
 .request_3{ 
  text-align: center;
