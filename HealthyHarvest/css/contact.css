@@ -97,6 +97,7 @@
 /********************* contact_end ****************/
 /********************* exercise ****************/
 #exercise{ 
+ position: static;
  padding-top:20px;
  padding-bottom:50px;
  }
